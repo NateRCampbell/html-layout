@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+    padding: 10px
+}
+.icon {
+    background-color: rgb(38, 155, 228);
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;        
+}
+
+.mainbody{
+    padding: 50px;
+    box-sizing: border-box;
+    height: 200px;
+    
+}
+.text {
+    font-family: Helvetica;
+    font-size: 1.5em;
+    color: rgb(95, 95, 95);
+}
+.footer1 {
+    background-color: rgb(38, 155, 228);
+    height: 15vh;
+    width: 100%;
+}
+.footer2 {
+    background-color: rgb(38, 228, 171);
+    height: 15vh;
+    width: 100%;
+}
+.footer3 {background-color: rgb(137, 221, 68);
+    height: 15vh;
+    width: 100%;
+
+}
+.footer4 {background-color: rgb(223, 226, 35);
+    height: 15vh;
+    width: 100%;
+
+}
